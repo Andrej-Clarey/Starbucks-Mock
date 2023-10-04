@@ -1,0 +1,79 @@
+.header{
+  display: flex;
+  padding: 10px;
+}
+li{
+  padding: 20px;
+}
+div{
+  margin: 50px;
+}
+
+.flex{
+  display: flex;
+}
+
+.img1{
+  width: 80px;
+}
+
+img{
+  width: 50%;
+}
+
+.coffee{
+  display: flex;
+  background-color: maroon;
+  color: white;
+  
+}
+
+.latee{
+  display: flex;
+  background-color: rgb(196, 54, 54);
+  color: white;
+}
+.chai{
+  justify-content: right;
+}
+
+.muffin{
+  display: flex;
+  background-color: maroon;
+  color: white;
+}
+
+.reward{
+  display: flex;
+  background-color: darkgreen;
+  color: white;
+}
+
+.text{
+  padding-right: 5%;
+  width: 35%;
+  text-align: center;
+  padding: 5%;
+  font-family: fantasy;
+}
+.text-left{
+  width: 50%;
+  text-align: center;
+  padding: 5%;
+  font-family: fantasy;
+}
+.h1{
+  font-size: 75px;
+}
+.p{
+  font-size: 28px;
+}
+.sbrew{
+  padding: 3%;
+  width: 45%;
+}
+
+button{
+  border-radius: 50px;
+
+}
